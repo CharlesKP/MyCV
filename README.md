@@ -6,11 +6,11 @@ my CV in HTML using CSS as styling. Something to promote my accomplishments
 for possible employers in the future that I can build on going
 forward.
 
-## Table of contents 
-*not necessary
+## Table of contents
+*not necessary*
 
 ## Instillation process
-*Installation not required, as it's a website: https://charleskp.github.io/MyCV/
+*Installation not required, as it's a website:* https://charleskp.github.io/MyCV/
 
 ## Usage
 
